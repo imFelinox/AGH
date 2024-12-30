@@ -30,7 +30,7 @@
 ||get.geojs.io^$important
 ||ogads-pa.clients6.google.com^$important
 ||id.google.com^$important
-||www.googleadservices.com^$important
+||googleadservices.com^$important
 ||crashlyticsreports-pa.googleapis.com^$important
 ||federatedcompute-pa.googleapis.com^$important
 ||lamssettings-pa.googleapis.com^$important
@@ -43,8 +43,8 @@
 ||geller-pa.googleapis.com^$important
 ||firebaseinstallations.googleapis.com^$important
 ||firebasedynamiclinks.googleapis.com^$important
-||www.googletagmanager.com^$important
-||www.googletagservices.com^$important
+||googletagmanager.com^$important
+||googletagservices.com^$important
 ||secure.gravatar.com^$important
 ||csi.gstatic.com^$important
 ||connectivitycheck.gstatic.com^$important
@@ -52,7 +52,7 @@
 ||slb-apisnd-in.heytapmobile.com^$important
 ||htms.heytapmobile.com^$important
 ||cmp.inmobi.com^$important
-||www.instagram.com^$important
+||instagram.com^$important
 ||lite.ip2location.com^$important
 ||ipinfo.io^$important
 ||ipwho.is^$important
