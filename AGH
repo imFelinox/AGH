@@ -76,7 +76,9 @@
 ||wps.com^$important
 ||ya.ru^$important
 ||yandex.ru^$important
-# = = = = = = =
+# ==========================
+# APK-магазины и репозитории
+# ==========================
 ||4pda.to^$important
 ||a2zapk.com^$important
 ||acmarket.io^$important
