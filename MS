@@ -100907,7 +100907,6 @@
 ||googleailesi.com^$important
 ||googleanalytics.com^$important
 ||googleapi.club^$important
-||googleapis.com^$important
 ||googleapls.ru^$important
 ||googlebank.fr^$important
 ||googleblog.fr^$important
