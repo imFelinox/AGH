@@ -98372,8 +98372,6 @@
 ||gitfrominstall.com^$important
 ||githb.co^$important
 ||github-scanner.com^$important
-||github.com^$important
-||github.io^$important
 ||github.pm^$important
 ||github.tf^$important
 ||githubapp.com^$important
